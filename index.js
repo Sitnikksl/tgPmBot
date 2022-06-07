@@ -2,7 +2,6 @@ import fetch from "node-fetch";
 import TelegramApi from "node-telegram-bot-api";
 //const { options } = require('nodemon/lib/config')
 //const command = require('nodemon/lib/config/command')
-//pus
 const token = ''
 const bot = new TelegramApi(token, {polling: true})
 
