@@ -1,0 +1,27 @@
+{
+  "name": "telegrammanagerbot",
+  "version": "1.0.0",
+  "description": "Bot fo managment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitnikksl/telegramManagerBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sitnikksl/telegramManagerBot/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Sitnikksl/telegramManagerBot#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4",
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.16"
+  }
+}
