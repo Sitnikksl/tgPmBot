@@ -1,4 +1,3 @@
-//dev changes
 import fetch from "node-fetch";
 import TelegramApi from "node-telegram-bot-api";
 //const { options } = require('nodemon/lib/config')
